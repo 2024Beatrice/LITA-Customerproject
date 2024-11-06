@@ -88,6 +88,8 @@ GROUP BY SubscriptionStatus
 
 ## PowerBI
 
+![image](https://github.com/user-attachments/assets/97ef30b2-1907-451b-9083-3dd67bb28546)
+
 
 
 # Reflection:
