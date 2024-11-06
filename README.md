@@ -1,8 +1,10 @@
 ### LITA Customer Subscription 
 
+
 ## Project Overview
 
 Project Title: Customer Segmentation for a Subscription Service
+  This project aimed to analyze customer data for a subscription service, identifying key customer segments, sunscription trends, and cancellation patterns to support data-driven business decisions
 
 # Objective:
   To analyze subscription data to identify customer segments, trends in subscription renewals and cancellations, and insights into the most profitable subscription types
@@ -85,8 +87,12 @@ GROUP BY SubscriptionStatus
 
 
 ## PowerBI
-Problem-Solving
-Communication
+
+
+
+# Reflection:
+
+  This project deepened my skills in customer segmentation and provided hands-on experience with Power Bi, reinforcing my ability to derive insights that support business decision
 
 
 Project Summary
